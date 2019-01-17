@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.bf-express.com.cn/ipa/BinFengExpressOwner.ipa</string>
+					<string>http://www.bf-express.com.cn/ipa/BinFengExpressOwner/BinFengExpressOwner_14.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>彬峰快运货主-让物流更便捷</string>
+				<string>彬峰快运货主</string>
 			</dict>
 		</dict>
 	</array>
